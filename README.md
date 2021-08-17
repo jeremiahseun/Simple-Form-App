@@ -4,7 +4,7 @@ A Simple User Data Mobile App.
 
 ## Screenshots
 
-![Sample Video](simple_input_app/assets/1.gif)
+![Sample Video](https://drive.google.com/file/d/1oxAGz2_xnfOYYFKIvw3djeTxa-nINSMW/view?usp=sharing)
 
 ## Getting Started
 

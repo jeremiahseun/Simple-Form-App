@@ -4,7 +4,7 @@ A Simple User Data Mobile App.
 
 ## Screenshots
 
-![Sample Video](C:/Users/EL-JOY/simple_input_app/assets/1.gif)
+![Sample Video](simple_input_app/assets/1.gif)
 
 ## Getting Started
 
@@ -12,7 +12,6 @@ This project is a Flutter application that collects user data and displays it on
 
 A few resources to get you started on this programme:
 
-- https://hng.tech/img/brand-logo.png
 - [Zuri Internship](https://internship.zuri.team)
 - [HNG Team](https://hng.tech/)
 - [I4G](https://ingressive.org/)
